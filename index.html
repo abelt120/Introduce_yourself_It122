@@ -9,13 +9,17 @@
 </head>
 
 <body>
-    My name is <span id="first_name">firstName</span> <lastName>. I have been at SCC for <yearsOfStudy> and plan to <goal> after completing my courses.
+    My name is <span id="first_name">firstName</span> <span id="last_name">lastName</span>. I have been at SCC for <span id="study_period">yearsOfStudy</span> and plan to <span id="goal">goalSet</span> after completing my courses.
         
 
 
   <script src="script.js"></script>
 <script> 
 document.querySelector("#first_name").innerHTML= firstName;
+document.querySelector("#last_name").innerHTML= lastName;
+document.querySelector("#study_period").innerHTML= yearsOfStudy;
+document.querySelector("#goal").innerHTML= goalSet;
+
 
 
 

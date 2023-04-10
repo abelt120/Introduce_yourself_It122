@@ -1,8 +1,5 @@
 const firstName = "Abiel";
 const lastName = "Tesfamariam";
-const firstName = "Abiel";
-const firstName = "Abiel";
-const firstName = "Abiel";
-const firstName = "Abiel";
-const firstName = "Abiel";
-const firstName = "Abiel";
+const yearsOfStudy = "6 month";
+const goalSet = "to become a software developer ";
+
